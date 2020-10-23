@@ -8,3 +8,13 @@
     Topics included OOP, IO, Exceptions, GUI, Networking and Multihtreading.
 
 
+- layout: top-middle
+  name: Breast Cancer Biomarker App
+  link: github.com/aMimikyu/assess-breast-cancer-risk
+  quote: Android Studio Project
+  description: | # this will include new lines to allow paragraphs
+    Created an Android mobile application using WEKA and data provided by the University of Coimbra to predict whether a person had breast cancer or not. Testing the
+    application using patient data resulted in an accurate prediction about ~75% of the time.
+    While the accuracy doesn't match the accuracy provided by top hospital applications, this project served as a great introduction to machine learning and mobile development.
+
+
