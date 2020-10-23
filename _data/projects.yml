@@ -1,7 +1,6 @@
 - layout: top-middle
   name: Java 101 Workshop
   link: github.com/ionian-uni-ieee/Java-101-Networking-Multithreading
-  github: sproogen/resume-theme
   quote: >
     Java workshop
   description: | # this will include new lines to allow paragraphs
