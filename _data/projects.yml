@@ -4,7 +4,7 @@
   quote: _
   description: | # this will include new lines to allow paragraphs
     Organized and managed an introductory workshop to teach first-year students the basics of java within the context of the IEEE Student Branch.
-    Across multiple sessions I walked them through the process of creating a very basic chat application and the java fundamentals that are needed for it.
+    Across multiple sessions I walked them through the process of creating a basic chat application and the java fundamentals that are needed for it.
     Topics included OOP, IO, Exceptions, GUI, Networking and Multihtreading.
 
 
