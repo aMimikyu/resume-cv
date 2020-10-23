@@ -1,9 +1,10 @@
 - layout: top-middle
   name: Java 101 Workshop
   link: github.com/ionian-uni-ieee/Java-101-Networking-Multithreading
-  quote: >
-    Java workshop
+  quote: 
   description: | # this will include new lines to allow paragraphs
     Organized and managed an introductory workshop to teach first-year students the basics of java within the context of the IEEE Student Branch.
-    Topics included OOP, IO, Exceptions, GUI, Networking & Multithreading.
+    Across multiple sessions I walked them through the process of creating a very basic chat application and the java fundamentals that are needed for it.
+    Topics included OOP, IO, Exceptions, GUI, Networking and Multihtreading.
+
 
