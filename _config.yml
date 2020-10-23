@@ -46,14 +46,14 @@ more_content: | # this will include new lines to allow paragraphs
 
 skills_content: |
 
-  - java
-  - python
+  - Java
+  - Python
   - Android Studio
   - SQL
-  - git/github 
-  - c#/unity 
-  - unix
-  - data science basics
+  - Github/git
+  - C#/Unity 
+  - Unix
+  - Data Science Basics
 
 # Footer
 footer_show_references: true
