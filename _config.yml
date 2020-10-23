@@ -46,9 +46,14 @@ more_content: | # this will include new lines to allow paragraphs
 
 skills_content: |
 
-  - Certificate of Proficiency in English (University of Michigan)
-  - Oracle Certified Associate, Java SE 8 Programmer
-  - Oracle Certified Professional, Java SE 8 Programmer II
+  - java
+  - python
+  - Android Studio
+  - SQL
+  - git/github 
+  - c#/unity 
+  - unix
+  - data science basics
 
 # Footer
 footer_show_references: true
