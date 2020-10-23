@@ -44,6 +44,12 @@ more_content: | # this will include new lines to allow paragraphs
   - Oracle Certified Associate, Java SE 8 Programmer
   - Oracle Certified Professional, Java SE 8 Programmer II
 
+skills_content: |
+
+  - Certificate of Proficiency in English (University of Michigan)
+  - Oracle Certified Associate, Java SE 8 Programmer
+  - Oracle Certified Professional, Java SE 8 Programmer II
+
 # Footer
 footer_show_references: true
 
