@@ -6,9 +6,9 @@
   quote: 
   description: | # this will include new lines to allow paragraphs
     - Created and connected a multitude of scripts to map and transform gigabytes of geographical data according to business needs. These scripts helped unify the process of data gathering and reduce wasted developer time.
+        
+    - Used machine learning to create geographical areas of interest using available data and geofenced them
     
     - Designed and developed a small database to store geographical data.
-    
-    - Used machine learning to create geographical areas of interest using available data.
-    
-    - Used java and python with scikit-learn, numpy, pandas 
+
+    - Used java and python with scikit-learn, numpy, pandas, redis-py and tile38
